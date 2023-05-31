@@ -1,0 +1,25 @@
+.dashboard-container {
+  background-color: #161625;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.logo-styling {
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+}
+
+.cowin-heading {
+  color: #2cc6c6;
+}
+
+.cowin-side-heading {
+  color: #cbd5e1;
+}
